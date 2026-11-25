@@ -1,0 +1,9 @@
+order_id,order_date,ship_date,ship_mode,customer_id,region,product_id,category,sales,quantity,profit,return_reason
+CA-2018-105893,18-02-2020,24-02-2020,Second Class,DV-97179,West,OFF-LA-75705294,Office Supplies,353.26,4.0,113.43,bad quality
+CA-2018-143336,18-05-2020,24-05-2020,Same Day,DV-97868,West,OFF-ST-73865234,Office Supplies,637.4,2.0,152.02,wrong item
+CA-2018-143336,27-06-2020,30-06-2020,Second Class,CG-69096,East,OFF-ST-68890100,Office Supplies,909.77,10.0,-85.47,wrong item
+CA-2018-146703,21-09-2019,26-09-2019,Standard Class,CG-82976,Central,FUR-FU-16655378,Furniture,199.8,3.0,-62.64,wrong item
+CA-2018-167164,20-11-2021,22-11-2021,First Class,KL-92568,East,OFF-ST-31054879,Office Supplies,712.66,2.0,28.47,other
+CA-2019-115742,25-08-2021,29-08-2021,Standard Class,MN-89212,West,FUR-CH-87609076,Furniture,390.41,10.0,-108.61,other
+CA-2020-101343,06-06-2019,11-06-2019,First Class,SO-35984,Central,OFF-ST-99556875,Office Supplies,1059.25,5.0,407.06,bad quality
+CA-2020-117590,21-04-2021,23-04-2021,Standard Class,MN-69176,East,TEC-PH-87260687,Technology,965.28,5.0,-237.58,wrong item
